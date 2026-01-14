@@ -22,8 +22,7 @@ Exemplos práticos de princípios SOLID, padrões de projeto e modelagem de clas
 
 ## 🛠️ Tech Stack
 - **Language:** Java 17+
-- **Build Tool:** Maven/Gradle (opcional, se for usar)
 - **Concepts:** Algorithms, Data Structures, OOP, Clean Code.
 
 ---
-*Este repositório é mantido por [Seu Nome] como parte de um programa de estudo contínuo.*
+*Este repositório é mantido por [Rodrigo Nogueira] como parte de um programa de estudo contínuo.*
